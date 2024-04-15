@@ -21,10 +21,6 @@ I'm a Junior FullStack Developer passionate about technology and tabletop games.
 - ⚙️ Git, GitHub
 - 🌐 MySQL, SQL Server
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincenzolaveglia&show_icons=true&theme=onedark)
-
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzolaveglia&layout=compact&theme=onedark)

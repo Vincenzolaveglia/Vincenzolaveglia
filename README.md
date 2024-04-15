@@ -1,13 +1,6 @@
 # Hi there, I'm Vincenzo Laveglia! 👋
 
-I'm a Junior FullStack Developer passionate about technology and tabletop games.
-
-## About Me
-
-- 💼 I'm currently working as a Junior FullStack Developer.
-- 🎓 I have a degree in [insert your degree name or specialization].
-- 💻 I have experience with various technologies and programming languages including HTML, CSS, JavaScript, Python, and more.
-- ⚡ In my free time, I love playing Commander Mtg and other tabletop games.
+I'm a Junior FullStack Developer.
 
 ## Get in Touch
 

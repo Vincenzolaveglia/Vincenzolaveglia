@@ -1,21 +1,20 @@
-# Hi there, I'm Vincenzo Laveglia! 👋
+# Hello, I'm Vincenzo Laveglia! 👋
 
-I'm a Junior FullStack Developer.
+I'm a Junior FullStack Developer passionate about crafting robust web applications and exploring innovative technologies.
 
-## Get in Touch
+## 📫 Get in Touch
 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/vincenzo-laveglia-404baa2ab/).
-- ✉️ You can also email me at [vincenzolaveglia10@gmail.com].
+- ✉️ Email me at [vincenzolaveglia10@gmail.com](mailto:vincenzolaveglia10@gmail.com).
 
-## Technologies & Tools
+## 💻 Technologies & Tools
 
-- 🚀 HTML, CSS, JavaScript
-- 💻 React, Asp.Net, C#
-- ⚙️ Git, GitHub
-- 🌐 MySQL, SQL Server
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Asp.Net, C#
+- Database: MySQL, SQL Server
+- Version Control: Git, GitHub
 
-## Most Used Languages
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzolaveglia&layout=compact&theme=onedark)
-
 

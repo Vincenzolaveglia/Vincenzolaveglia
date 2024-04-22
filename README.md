@@ -9,7 +9,7 @@ I'm a Junior FullStack Developer passionate about crafting robust web applicatio
 
 ## 💻 Technologies & Tools
 
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
 - Backend: Asp.Net, C#
 - Database: MySQL, SQL Server
 - Version Control: Git, GitHub

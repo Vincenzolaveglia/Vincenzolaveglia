@@ -6,6 +6,7 @@ I'm a Junior FullStack Developer passionate about crafting robust web applicatio
 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/vincenzo-laveglia-404baa2ab/).
 - ✉️ Email me at [vincenzolaveglia10@gmail.com](mailto:vincenzolaveglia10@gmail.com).
+- 👛 My Portfolio [Vincenzo Laveglia](https://vincenzolaveglia.github.io/Portfolio/).
 
 ## 💻 Technologies & Tools
 
